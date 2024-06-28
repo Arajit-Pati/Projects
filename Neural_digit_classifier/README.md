@@ -6,7 +6,7 @@ This was implemented with flask API. Download the files in a disctinct folder an
 1) Save in test folder and change the path in 'test.py'.
 1) Open terminal and ……
 
-\>> cd <go to where u have the downloaded folders>
+\>> cd (go to where u have the downloaded folders)
 
 \>> python -m venv venv
 
@@ -26,7 +26,7 @@ This was implemented with flask API. Download the files in a disctinct folder an
 
 1) Open another terminal and….
 
-\>> cd <go to where u have the folders>
+\>> cd (go to where u have the folders)
 
 \>> venv\Scripts\activate
 
