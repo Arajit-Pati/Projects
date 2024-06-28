@@ -3,7 +3,7 @@
 This was implemented with flask API. Download the files in a disctinct folder and implement as follows:
 
 1) Make your own digit keeping background dark.
-1) Save in test folder
+1) Save in test folder and change the path in 'test.py'.
 1) Open terminal and ……
 
 \>> cd <go to where u have the downloaded folders>
