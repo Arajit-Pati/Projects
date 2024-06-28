@@ -1,4 +1,4 @@
-﻿NEURAL DIGIT CLASSIFIER
+# ﻿NEURAL DIGIT CLASSIFIER
 
 This was implemented with flask API. Download the files in a disctinct folder and implement as follows:
 
