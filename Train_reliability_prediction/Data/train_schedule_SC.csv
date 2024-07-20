@@ -1,0 +1,246 @@
+,Train number,Train name (no.) passing via  Secunderabad Junction,Arrives,Departs,Stop time,M,T,W,T,F,S,S
+0,12733,Narayanadri Express (12733),06:25,Ends,,Y,Y,Y,Y,Y,Y,Y
+1,12747,Palnadu Express (12747),10:35,10:45,10 min,Y,Y,Y,Y,Y,Y,Y
+2,12759,Charminar Express (12759),07:15,07:20,5 min,Y,Y,Y,Y,Y,Y,Y
+3,57140,Link Secbad Express (57140),04:45,Ends,,Y,Y,Y,Y,Y,Y,Y
+4,08566,Nzb Vskp Special (08566),21:10,21:30,20 min,N,N,Y,N,N,N,N
+5,08565,Vskp Nzb Special (08565),09:00,09:20,20 min,N,Y,N,N,N,N,N
+6,08563,Vskp Hyb Special (08563),08:15,08:25,10 min,Y,N,N,N,N,N,N
+7,08564,Hyb  Vskp Special (08564),23:20,23:30,10 min,N,Y,N,N,N,N,N
+8,07121,Sc Nlr Special (07121),Starts,15:05,,Y,N,N,Y,N,Y,N
+9,09222,Sc Pbr Special (09222),Starts,14:50,,N,N,Y,N,N,N,N
+10,12734,Narayanadri Express (12734),Starts,18:05,,Y,Y,Y,Y,Y,Y,Y
+11,12760,Charminar Express (12760),18:50,18:55,5 min,Y,Y,Y,Y,Y,Y,Y
+12,12582,Bbs Pune Express (12582),17:40,17:50,10 min,N,Y,N,N,N,N,N
+13,17011,Hyb Bpa  Express (17011),05:35,05:40,5 min,Y,Y,Y,Y,Y,Y,Y
+14,17012,Bpa Hyb Express (17012),15:20,15:25,5 min,Y,Y,Y,Y,Y,Y,Y
+15,07007,Sc Dbg   Special (07007),Starts,11:40,,N,N,N,N,Y,N,N
+16,07011,Hyb Bpa  Special (07011),11:50,11:55,5 min,N,N,N,N,Y,N,N
+17,07020,Hyb Aii Special (07020),12:05,12:10,5 min,N,N,N,N,Y,N,N
+18,12581,Pune Bbs Express (12581),21:30,21:40,10 min,N,N,N,Y,N,N,N
+19,12749,Vskp Ltt Express (12749),21:00,21:10,10 min,N,N,Y,N,N,Y,N
+20,12750,Ltt Vskp Superfast Express (12750),02:00,02:10,10 min,N,N,N,Y,N,N,Y
+21,02731,Tpty Sc Express (02731),07:05,Ends,,N,N,N,N,N,N,Y
+22,08511,Vskp Sc Special (08511),08:15,Ends,,N,N,N,N,N,N,Y
+23,02769,Tpty Sc Express (02769),04:05,Ends,,N,N,N,N,N,N,Y
+24,02770,Sc Tpty  Express (02770),Starts,12:00,,N,N,N,Y,N,N,N
+25,02802,Snsi Vskp Special (02802),09:25,09:35,10 min,N,N,N,N,Y,N,N
+26,02220,Sc Ltt Special (02220),Starts,22:00,,N,N,N,N,N,N,Y
+27,07117,Sc  Nlr Special (07117),Starts,11:00,,N,N,N,N,N,Y,N
+28,07118,Nlr Sc Special (07118),08:15,Ends,,N,N,N,N,N,Y,N
+29,07107,Hyb Qln   Special (07107),16:20,16:30,10 min,Y,N,N,Y,N,N,Y
+30,07490,Ru Gkp Special (07490),23:00,23:25,25 min,N,N,N,N,N,N,Y
+31,08509,Vskp Ned Special (08509),09:00,09:20,20 min,N,Y,N,N,N,N,N
+32,12771,Sc Ngp Superfast Express (12771),Starts,22:00,,Y,N,Y,N,Y,N,N
+33,07092,Ald  Hyb  Special (07092),22:15,22:20,5 min,N,N,N,N,N,N,Y
+34,07028,Hyb  Vskp Special (07028),22:25,22:35,10 min,N,N,N,N,N,Y,N
+35,12604,Chennai Express (12604),17:15,17:20,5 min,Y,Y,Y,Y,Y,Y,Y
+36,17608,Tungabhadra Express (17608),19:55,Ends,,Y,Y,Y,Y,Y,Y,Y
+37,17607,Tungabhadra Express (17607),Starts,07:30,,Y,Y,Y,Y,Y,Y,Y
+38,07126,Aii Hyb Special (07126),13:00,13:10,10 min,N,N,N,N,Y,N,N
+39,07125,Hyb Jp Special (07125),20:30,20:35,5 min,N,N,N,N,Y,N,N
+40,07120,Nsl Sc  Special (07120),23:30,Ends,,Y,N,N,N,N,N,N
+41,22881,Pune Bbs Express (22881),21:30,21:40,10 min,N,N,N,Y,N,N,N
+42,12775,Cocanada Express (12775),06:55,Ends,,N,Y,N,Y,N,N,Y
+43,12769,Seven Hills Express (12769),04:05,Ends,,Y,N,N,N,Y,N,N
+44,17024,Tungabhadra Express (17024),19:55,Ends,,Y,Y,Y,Y,Y,Y,Y
+45,07505,Awb Qln Special (07505),06:00,06:05,5 min,N,N,N,N,Y,N,N
+46,07151,Kzj Ned Express (07151),23:10,23:30,20 min,N,N,N,N,Y,N,N
+47,22801,Vskp Snsi Superfast Express (22801),21:30,22:00,30 min,N,N,N,Y,N,N,N
+48,07001,Hyb Cct Special (07001),23:10,23:15,5 min,N,N,N,N,N,N,Y
+49,07147,Vskp Sc Special (07147),08:15,Ends,,N,N,N,N,N,Y,N
+50,07201,Cct  Sc Superfast  Special (07201),04:15,Ends,,Y,N,N,N,Y,N,N
+51,07166,Hyb Qln Special (07166),14:20,14:30,10 min,N,Y,N,N,N,N,N
+52,07203,Sc Bza Special (07203),Starts,23:15,,N,N,N,N,Y,N,N
+53,07204,Bza Sc Special (07204),05:20,Ends,,N,N,N,Y,N,N,N
+54,07128,Hyb Shm Special (07128),22:15,22:20,5 min,N,N,N,N,N,N,Y
+55,07145,Kcg Tpty Special (07145),23:35,23:40,5 min,N,Y,N,N,N,N,N
+56,07146,Tpty Kcg Special (07146),03:40,03:45,5 min,N,N,Y,N,N,N,N
+57,17255,Ns Hydrabad Express (17255),04:55,05:00,5 min,Y,Y,Y,Y,Y,Y,Y
+58,02727,Vskp Sc Ac Special (02727),07:50,Ends,,N,N,N,N,N,Y,N
+59,02737,Cct Sc Superfast Special (02737),09:15,Ends,,N,N,N,N,Y,N,N
+60,07207,Bza Sc Special (07207),05:40,Ends,,N,N,N,Y,N,N,N
+61,17023,Tungabhadra Express (17023),Starts,07:30,,Y,Y,Y,Y,Y,Y,Y
+62,02776,Sc Cct  Superfast Special (02776),Starts,23:15,,Y,N,N,N,N,N,N
+63,07021,Hyb Jat Special (07021),10:55,11:00,5 min,N,N,N,Y,N,N,N
+64,07208,Sc Bza Special (07208),Starts,23:15,,N,N,N,N,Y,N,N
+65,22802,Snsi Vskp Express (22802),09:25,09:35,10 min,N,N,N,N,Y,N,N
+66,02701,Sc Cstm Premium (02701),Starts,23:45,,N,N,N,N,N,N,Y
+67,02702,Cstm Sc Premium (02702),13:45,Ends,,Y,N,N,N,N,N,N
+68,18503,Vskp  Snsi   Express (18503),21:30,22:00,30 min,N,N,N,Y,N,N,N
+69,02740,Sc  Vskp Ac Special (02740),Starts,22:10,,N,N,N,N,N,N,Y
+70,02709,Sc Garibrath Special (02709),11:30,Ends,,N,N,N,N,N,N,Y
+71,02710,Gdr Garibrathsp (02710),Starts,11:00,,N,N,N,N,N,Y,N
+72,02739,Vskp Sc Ac Special (02739),07:50,Ends,,Y,N,N,N,N,N,N
+73,17207,Snsi Bza Express (17207),09:25,09:35,10 min,N,N,Y,N,N,N,N
+74,07255,Ns Sc Special (07255),06:00,Ends,,N,N,N,Y,N,N,N
+75,08504,Sc Vskp Special (08504),Starts,16:30,,N,Y,N,N,N,N,N
+76,12285,Nzm Duronto  Express (12285),Starts,13:30,,N,N,N,Y,N,N,Y
+77,22204,Vskp Duronto  E (22204),Starts,20:30,,Y,N,Y,N,N,Y,N
+78,17001,Snsi Sc Express (17001),09:25,Ends,,Y,N,N,N,N,Y,N
+79,12286,Nzm Sc Duronto (12286),14:00,Ends,,Y,N,N,N,Y,N,N
+80,22203,Sc Duronto Express (22203),08:00,Ends,,N,Y,N,Y,N,N,Y
+81,12219,Sc Duronto Express (12219),11:05,Ends,,N,N,Y,N,N,Y,N
+82,12713,Satavahana Express (12713),11:45,Ends,,Y,Y,Y,Y,Y,Y,Y
+83,12714,Satavahana Express (12714),Starts,16:15,,Y,Y,Y,Y,Y,Y,Y
+84,12437,Rajdhani Express (12437),Starts,12:45,,N,N,Y,N,N,N,N
+85,02204,Shc Garib Rath (02204),00:00,23:00,1380 min,N,N,Y,N,N,N,Y
+86,57619,Ral Sc Fastpass (57619),07:55,Ends,,Y,Y,Y,Y,Y,Y,Y
+87,12220,Duronto Ac Express (12220),Starts,23:05,,N,Y,N,N,Y,N,N
+88,57563,Hyb Pbn Passenger (57563),23:05,23:10,5 min,Y,Y,Y,Y,Y,Y,Y
+89,57564,Ned Hyb Passenger (57564),07:10,07:15,5 min,Y,Y,Y,Y,Y,Y,Y
+90,08501,Vskp Sc Special (08501),11:45,Ends,,N,Y,N,N,N,N,N
+91,07038,Bkn Ned Special (07038),09:55,00:00,845 min,N,N,N,Y,N,N,N
+92,08502,Sc Vskp Special (08502),Starts,16:30,,N,N,Y,N,N,N,N
+93,08503,Vskp Sc Special (08503),07:50,Ends,,Y,N,N,N,N,N,N
+94,07320,Sc  Ubl Special (07320),Starts,16:00,,N,N,Y,N,Y,N,Y
+95,07406,Tpty Awb Special (07406),08:25,08:50,25 min,N,N,N,N,N,Y,N
+96,07405,Awb Tpty Special (07405),01:25,01:45,20 min,N,N,N,N,Y,N,N
+97,12776,Cocanada Express (12776),Starts,20:45,,Y,N,Y,N,Y,N,N
+98,17249,Mtm Sc Express (17249),05:05,Ends,,Y,Y,Y,Y,Y,Y,Y
+99,17025,Mugr Sc Express (17025),04:45,Ends,,Y,Y,Y,Y,Y,Y,Y
+100,17233,Bhagyanagar Express (17233),Starts,15:25,,Y,Y,Y,Y,Y,Y,Y
+101,12805,Janmabhoomi Express (12805),18:45,Ends,,Y,Y,Y,Y,Y,Y,Y
+102,12026,Pune Shatabdi (12026),Starts,14:45,,Y,N,Y,Y,Y,Y,Y
+103,17058,Devagiri Express (17058),Starts,12:25,,Y,Y,Y,Y,Y,Y,Y
+104,17002,Sc Snsi Express (17002),Starts,16:40,,N,N,N,N,Y,N,Y
+105,19202,Pbr Sc Express (19202),10:30,Ends,,Y,N,N,N,N,N,N
+106,19714,Sc Jp Express (19714),Starts,21:20,,Y,N,N,N,N,N,N
+107,12723,Andhra Pradesh Express (12723),06:45,06:50,5 min,Y,Y,Y,Y,Y,Y,Y
+108,12603,Hyderabad Express (12603),05:15,05:20,5 min,Y,Y,Y,Y,Y,Y,Y
+109,17206,Cct  Snsi  Express (17206),16:25,16:40,15 min,Y,N,Y,N,N,Y,N
+110,17007,Sc Dbg Express (17007),Starts,22:00,,N,Y,N,N,N,Y,N
+111,12770,Seven Hills Express (12770),Starts,17:40,,N,Y,N,N,Y,N,N
+112,12774,Sc Shm Ac  Express (12774),Starts,05:30,,N,Y,N,N,N,N,N
+113,17234,Bhagyanagar Express (17234),10:45,Ends,,Y,Y,Y,Y,Y,Y,Y
+114,17250,Machiliptnm Express (17250),Starts,22:30,,Y,Y,Y,Y,Y,Y,Y
+115,17205,Snsi Cct Express (17205),09:25,09:35,10 min,N,Y,N,Y,N,N,Y
+116,17208,Bza Snsi Express (17208),16:25,16:40,15 min,N,Y,N,N,N,N,N
+117,12025,Shatabdi Express (12025),14:20,Ends,,Y,N,Y,Y,Y,Y,Y
+118,22849,Shm Sc Wkly Express (22849),15:00,Ends,,N,N,Y,N,N,N,N
+119,22694,Banglore Rajdhn (22694),18:35,18:50,15 min,N,N,Y,Y,N,N,Y
+120,12773,Shm Sc Ac  Express (12773),19:00,Ends,,N,N,Y,N,N,N,N
+121,12772,Ngp Sc Superfast Express (12772),08:25,Ends,,N,Y,N,Y,N,Y,N
+122,12703,Falaknuma Express (12703),09:35,Ends,,Y,Y,Y,Y,Y,Y,Y
+123,22691,Rajdhani Express (22691),07:35,07:50,15 min,Y,N,Y,Y,N,N,Y
+124,17026,Sc Mugr Express (17026),Starts,23:45,,Y,Y,Y,Y,Y,Y,Y
+125,22850,Sc  Shm Wkly Express (22850),Starts,05:30,,N,N,N,N,Y,N,N
+126,17008,Dbg Sc Express (17008),22:10,Ends,,N,Y,N,N,Y,N,N
+127,22693,Rajdhani Express (22693),07:35,07:50,15 min,N,Y,N,N,Y,Y,N
+128,22692,Banglore Rajdhani (22692),18:35,18:50,15 min,Y,Y,N,N,Y,Y,N
+129,18309,Nagavali Express (18309),09:00,09:20,20 min,Y,N,N,N,Y,N,Y
+130,12438,Nzm Sc Rajdhani (12438),14:00,Ends,,N,N,N,N,N,N,Y
+131,19713,Jp Sc Express (19713),07:30,Ends,,N,N,N,N,N,Y,N
+132,17320,Sc  Ubl Express (17320),Starts,16:00,,Y,N,N,Y,N,Y,N
+133,17221,Coa  Ltt Express (17221),20:20,20:25,5 min,N,N,Y,N,N,Y,N
+134,17232,Nsl Ns Express (17232),23:00,23:20,20 min,Y,N,N,N,N,Y,N
+135,22882,Bbs Pune Express (22882),17:40,17:50,10 min,N,Y,N,N,N,N,N
+136,17005,Hyb Rxl Express (17005),21:50,22:00,10 min,N,N,N,Y,N,N,N
+137,11020,Konark Express (11020),11:35,11:45,10 min,Y,Y,Y,Y,Y,Y,Y
+138,18509,Vskp Ned Express (18509),09:00,09:20,20 min,N,Y,Y,N,N,Y,N
+139,12740,Vskp Garib Rath (12740),Starts,20:15,,Y,Y,Y,Y,Y,Y,Y
+140,12513,Sc Ghy Express (12513),Starts,07:30,,N,N,N,N,N,N,Y
+141,12705,Gnt Sc Express (12705),21:50,Ends,,Y,Y,Y,Y,Y,Y,Y
+142,12706,Sc Gnt Express (12706),Starts,07:40,,Y,Y,Y,Y,Y,Y,Y
+143,12713,Satavahana Express (12713),11:45,Ends,,Y,Y,Y,Y,Y,Y,Y
+144,12714,Satavahana Express (12714),Starts,16:15,,Y,Y,Y,Y,Y,Y,Y
+145,12727,Godavari Express (12727),05:45,05:50,5 min,Y,Y,Y,Y,Y,Y,Y
+146,12738,Goutami Express (12738),Starts,21:15,,Y,Y,Y,Y,Y,Y,Y
+147,12763,Padmavathi Express (12763),05:50,Ends,,Y,Y,N,N,Y,Y,Y
+148,12764,Padmavati Express (12764),Starts,18:30,,Y,N,N,Y,Y,Y,Y
+149,17214,Nsl Ns Express (17214),23:00,23:20,20 min,N,Y,Y,Y,Y,N,Y
+150,17035,Telangana Express (17035),Starts,08:20,,Y,Y,Y,Y,Y,Y,Y
+151,17036,Telangana Express (17036),20:20,Ends,,Y,Y,Y,Y,Y,Y,Y
+152,17064,Ajanta Express (17064),Starts,18:10,,Y,Y,Y,Y,Y,Y,Y
+153,17201,Golconda Express (17201),13:45,Ends,,Y,Y,Y,Y,Y,Y,Y
+154,17202,Golconda Express (17202),Starts,13:05,,Y,Y,Y,Y,Y,Y,Y
+155,12720,Hyb Aii Superfast Express (12720),20:50,20:55,5 min,Y,N,Y,N,N,N,N
+156,17213,Ns Nsl Express (17213),20:10,20:35,25 min,Y,Y,Y,Y,N,Y,N
+157,17018,Rajkot Express (17018),Starts,15:00,,Y,Y,N,N,N,Y,N
+158,17037,Sc Bkn Express (17037),Starts,23:35,,N,Y,Y,N,N,N,N
+159,17057,Devagiri Express (17057),14:30,Ends,,Y,Y,Y,Y,Y,Y,Y
+160,17406,Krishna Express (17406),05:45,06:05,20 min,Y,Y,Y,Y,Y,Y,Y
+161,17405,Krishna Express (17405),20:40,21:10,30 min,Y,Y,Y,Y,Y,Y,Y
+162,11019,Konark Express (11019),07:45,08:00,15 min,Y,Y,Y,Y,Y,Y,Y
+163,12791,Sc Pnbe Express (12791),Starts,10:00,,Y,Y,Y,Y,Y,Y,Y
+164,18520,Ltt Vskp Express (18520),20:55,21:05,10 min,Y,Y,Y,Y,Y,Y,Y
+165,12732,Sc Tpty Superfast Express (12732),Starts,20:05,,N,Y,Y,N,N,N,N
+166,12731,Tpty Sc Express (12731),07:05,Ends,,N,N,Y,Y,N,N,N
+167,18504,Snsi Vskp Express (18504),09:25,09:35,10 min,N,N,N,N,Y,N,N
+168,17204,Cct Bvc Express (17204),14:35,15:00,25 min,N,N,N,Y,N,N,N
+169,12514,Ghy Sc Express (12514),04:20,Ends,,N,N,N,Y,N,N,N
+170,17222,Ltt Coa Express (17222),01:50,02:00,10 min,N,N,N,Y,N,N,Y
+171,12590,Gorakhpur Express (12590),Starts,07:20,,N,N,N,N,Y,N,N
+172,12722,Dakshin Express (12722),04:05,04:10,5 min,Y,Y,Y,Y,Y,Y,Y
+173,17038,Bkn Sc Express (17038),08:50,Ends,,N,N,N,N,Y,N,Y
+174,17020,Hyb Aii  Express (17020),15:40,15:45,5 min,N,N,N,N,N,Y,N
+175,17230,Sabari Express (17230),11:50,11:55,5 min,Y,Y,Y,Y,Y,Y,Y
+176,17017,Rjt Sc Express (17017),10:30,Ends,,Y,N,Y,Y,N,N,N
+177,17019,Aii Hyb Express (17019),07:30,07:35,5 min,N,Y,N,N,N,N,N
+178,07249,Sc Ghy Special (07249),Starts,07:30,,N,N,N,N,Y,N,N
+179,18645,East Coast Express (18645),18:00,18:05,5 min,Y,Y,Y,Y,Y,Y,Y
+180,12719,Aii Hyb Superfast Express (12719),00:05,00:10,5 min,N,N,Y,N,Y,N,N
+181,07102,Cct  Sc  Superfast  Special (07102),04:30,Ends,,Y,N,N,N,N,N,N
+182,12589,Gkp Sc Express (12589),15:10,Ends,,N,N,Y,N,N,N,N
+183,12708,Ap Sampark Kranti (12708),09:15,09:30,15 min,N,N,Y,N,Y,N,Y
+184,08891,G Sc Superfast Special (08891),18:15,Ends,,N,Y,N,N,Y,N,Y
+185,08892,Sc  G Superfast Special (08892),Starts,06:15,,Y,N,Y,N,N,Y,N
+186,17203,Bvc Kakinada Express (17203),10:30,10:40,10 min,N,N,N,N,N,Y,N
+187,15015,Gkp Ypr Express (15015),15:10,15:20,10 min,Y,N,N,N,N,N,N
+188,07202,Sc Cct Superfast Special (07202),Starts,23:30,,N,N,N,Y,N,N,Y
+189,02774,Src Premium Special (02774),Starts,07:30,,N,N,Y,N,N,N,N
+190,02773,Src  Sc Premium (02773),21:40,Ends,,N,N,N,Y,N,N,N
+191,08505,Vskp Sc Special (08505),11:30,Ends,,N,Y,N,N,N,N,Y
+192,08506,Sc Vskp Special (08506),Starts,19:45,,Y,N,Y,N,N,N,N
+193,17063,Ajanta Express (17063),08:55,Ends,,Y,Y,Y,Y,Y,Y,Y
+194,02742,Sc Vskp Superfast Special (02742),Starts,23:30,,N,N,N,N,N,N,Y
+195,07209,Bza Sc Special (07209),21:40,Ends,,N,N,N,N,N,N,Y
+196,07210,Sc Bza Special (07210),Starts,23:40,,Y,N,N,N,N,N,Y
+197,12592,Gorakhpur Express (12592),06:55,07:20,25 min,Y,N,N,N,N,N,N
+198,15016,Ypr Gorakpur Express (15016),23:15,23:35,20 min,N,N,N,Y,N,N,N
+199,12806,Janmabhoomi Express (12806),Starts,07:10,,Y,Y,Y,Y,Y,Y,Y
+200,02680,Svdk Ypr Premiu (02680),19:25,19:35,10 min,N,Y,N,N,N,N,N
+201,12704,Falaknuma Express (12704),Starts,16:00,,Y,Y,Y,Y,Y,Y,Y
+202,12707,Andhra Pradesh Sampark Kranti (12707),17:35,17:55,20 min,Y,N,Y,N,Y,N,N
+203,12709,Simhapuri Express (12709),08:35,Ends,,Y,Y,Y,Y,Y,Y,Y
+204,12710,Simhapuri Express (12710),Starts,22:55,,Y,Y,Y,Y,Y,Y,Y
+205,12728,Godavari Express (12728),17:35,17:40,5 min,Y,Y,Y,Y,Y,Y,Y
+206,17016,Visakha Express (17016),Starts,17:00,,Y,Y,Y,Y,Y,Y,Y
+207,18646,East Coast Express (18646),10:20,10:25,5 min,Y,Y,Y,Y,Y,Y,Y
+208,18310,Nagawali  Express (18310),21:10,21:30,20 min,Y,Y,N,N,N,Y,N
+209,18510,Ned Vskp Express (18510),21:10,21:30,20 min,N,N,Y,Y,N,N,Y
+210,19201,Sc Pbr  Express (19201),Starts,15:00,,N,N,Y,N,N,N,N
+211,12737,Goutami Express (12737),06:35,Ends,,Y,Y,Y,Y,Y,Y,Y
+212,17256,Narasapur Express (17256),22:05,22:10,5 min,Y,Y,Y,Y,Y,Y,Y
+213,12748,Palnadu Express (12748),15:05,15:15,10 min,Y,Y,Y,Y,Y,Y,Y
+214,02792,Pnbe Sc Premium (02792),05:00,Ends,,N,N,N,N,Y,N,N
+215,07018,Sc Adi Premium (07018),Starts,07:30,,N,N,N,N,N,Y,N
+216,12724,Andhra Pradesh Express (12724),19:15,19:20,5 min,Y,Y,Y,Y,Y,Y,Y
+217,12591,Gkp Ypr Express (12591),15:10,15:20,10 min,N,N,N,N,N,Y,N
+218,12792,Pnbe Sc Express (12792),21:30,Ends,,Y,Y,Y,Y,Y,Y,Y
+219,17006,Dbg Hyb Express (17006),22:40,22:50,10 min,N,N,N,N,N,N,Y
+220,02679,Svdk Premium Express (02679),04:00,04:10,10 min,N,N,N,N,N,Y,N
+221,07109,Hyb Qln Special (07109),16:30,16:40,10 min,Y,Y,Y,Y,Y,Y,Y
+222,17231,Ns Nsl Express (17231),21:30,22:00,30 min,N,N,N,N,Y,N,Y
+223,02738,Sc Cct Superfast Special (02738),Starts,22:15,,N,N,N,N,N,Y,N
+224,07116,Kacheguda  Express (07116),04:30,04:40,10 min,Y,N,N,N,N,N,N
+225,17319,Secundrabad Express (17319),11:45,Ends,,N,N,Y,N,Y,N,Y
+226,12735,Ypr Garib Rath (12735),Starts,19:50,,N,Y,N,Y,N,N,Y
+227,07050,Sc Mtm Special (07050),Starts,10:30,,N,N,N,N,N,N,Y
+228,12721,Nizamuddin Express (12721),22:55,23:00,5 min,Y,Y,Y,Y,Y,Y,Y
+229,12736,Sc Garib Rath (12736),04:00,Ends,,Y,N,Y,N,Y,N,N
+230,18519,Vskp Ltt Express (18519),12:50,13:10,20 min,Y,Y,Y,Y,Y,Y,Y
+231,12739,Vskp Garib Rath (12739),08:10,Ends,,Y,Y,Y,Y,Y,Y,Y
+232,17015,Visakha Express (17015),07:30,Ends,,Y,Y,Y,Y,Y,Y,Y
+233,17229,Sabari Express (17229),13:10,13:15,5 min,Y,Y,Y,Y,Y,Y,Y
+234,07049,Mtm Sc Special (07049),05:55,Ends,,N,N,N,N,N,N,Y
+235,12783,Vskp Sc Ac Express (12783),07:40,Ends,,N,N,N,N,N,N,Y
+236,12784,Sc  Vskp Ac Express (12784),Starts,17:55,,N,N,N,N,N,Y,N
+237,12795,Sc Intercity (12795),23:10,Ends,,Y,Y,Y,Y,Y,Y,N
+238,12796,Bza Intercity (12796),Starts,05:30,,Y,Y,Y,Y,Y,Y,N
+239,17417,Tpty Snsi  Express (17417),21:00,21:20,20 min,N,Y,N,N,N,N,N
+240,17418,Tirupati Express (17418),09:25,09:35,10 min,N,N,Y,N,N,N,N
+241,18111,Tata Ypr Express (18111),22:20,22:30,10 min,N,N,N,Y,N,N,N
+242,18112,Ypr Tata Express (18112),05:20,05:30,10 min,N,N,N,N,N,N,Y
+243,22679,Svdk Suvidha Express (22679),04:00,04:10,10 min,N,N,N,N,N,Y,N
+244,22680,Svdk Ypr Suvdha (22680),19:25,19:35,10 min,N,Y,N,N,N,N,N
