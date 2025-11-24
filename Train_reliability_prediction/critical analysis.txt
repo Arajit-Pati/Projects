@@ -1,0 +1,7 @@
+- Before booking a ticket (will look for the train reliability over particular junctions, on the particular day of travel. will choose trains with best reliability)
+
+- Also decide the day of travel based on the train convenient to the user. Decide the day of travel with the best reliability.
+
+- After booking a ticket
+	- Will see for expected delays on the day (Forecasting)
+	- Journey delay
